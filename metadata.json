@@ -1,0 +1,8 @@
+{
+  "name": "Remix SciLab Kids",
+  "description": "单摆与机械能守恒科学物理互动电子教具，模拟单摆等时性、动能势能转化与周期规律。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
