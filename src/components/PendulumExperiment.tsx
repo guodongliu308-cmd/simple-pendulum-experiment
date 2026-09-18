@@ -708,7 +708,7 @@ export const PendulumExperiment: React.FC = () => {
             <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-1 text-xs">
               <span className="font-bold text-slate-800 flex items-center gap-1.5">
                 <Gauge className="w-4 h-4 text-indigo-600" />
-                实时机械能守恒条（E_总 = E_动 + E_势）
+                实时机械能守恒条（E_总 = E_动 + E_势）（若动画卡顿可将鼠标光标移出窗口）
               </span>
               <span className="text-[11px] text-slate-500 font-mono">
                 {enableDamping ? '⚠️ 空气阻力开启（能量缓慢消耗）' : '✨ 理想状态：机械能量 100% 守恒'}
